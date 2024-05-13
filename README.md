@@ -9,7 +9,7 @@ This repository showcases my expertise in data visualization using Power BI to a
 **Objective:** Analyze the effectiveness and impact of Facebook advertising campaigns.
 **Tools Used:** Power BI
 **Features:** Tracks conversion rate, cost per click (CPC), click-through rate (CTR), total sales, and demographic breakdowns of ad engagement.
-**Visualization:** `![image](https://github.com/vinayvaida27/PowerBI/assets/115647297/4fad535b-df68-4c0c-83fc-3ea6a9311fa9)
+**Visualization:** '![image](https://github.com/vinayvaida27/PowerBI/assets/115647297/4fad535b-df68-4c0c-83fc-3ea6a9311fa9)'
 ` shows detailed metrics including gender and age group analysis of campaign effectiveness.
 
 ### Financial Customer Analysis
