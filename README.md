@@ -30,7 +30,7 @@ This repository showcases my expertise in data visualization using Power BI to a
 **Visualization:** ![Sales Performance Dashboard](https://github.com/vinayvaida27/PowerBI/blob/main/Sales%20Performance%20Dashboard/Sales%20Performance%20Dashboard.png)
 
 ## Installation
-1. Clone this repo: `git clone [URL]`
+1. Clone this repo: `git clone [https://github.com/vinayvaida27/PowerBI.git]`
 2. Open the `.png` files to view static visualizations of each dashboard.
 3. Use Power BI to interact with and explore the dashboards dynamically by opening the respective files.
 
