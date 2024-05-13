@@ -9,7 +9,7 @@ This repository showcases my expertise in data visualization using Power BI to a
 **Objective:** Analyze the effectiveness and impact of Facebook advertising campaigns.
 **Tools Used:** Power BI
 **Features:** Tracks conversion rate, cost per click (CPC), click-through rate (CTR), total sales, and demographic breakdowns of ad engagement.
-**Visualization:** ![Facebook Ad Campaign Analysis]([FaceBook Ad Camapign analysis/Facebook Ad Camapign Analysis.png](https://github.com/vinayvaida27/PowerBI/blob/main/FaceBook%20Ad%20Camapign%20analysis/Facebook%20Ad%20Camapign%20Analysis.png))
+**Visualization:** ![Facebook Ad Campaign Analysis](https://github.com/vinayvaida27/PowerBI/blob/main/FaceBook%20Ad%20Camapign%20analysis/Facebook%20Ad%20Camapign%20Analysis.png))
 
 ### Financial Customer Analysis
 **Objective:** Segment financial services customers based on demographics and account balances.
