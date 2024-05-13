@@ -1,7 +1,7 @@
-# Dashboard Portfolio
+# Power BI Dashboard
 
 ## Overview
-Welcome to my Dashboard Portfolio! This repository demonstrates my expertise in data visualization, leveraging Power BI to derive and present insights across diverse domains such as sales, traffic safety, financial services, and advertising. Each dashboard provides a deep dive into specific aspects of data analysis, helping to uncover patterns and drive decision-making.
+Welcome to my Power BI Dashboard Portfolio! This repository demonstrates my expertise in data visualization, leveraging Power BI to derive and present insights across diverse domains such as sales, traffic safety, financial services, and advertising. Each dashboard provides a deep dive into specific aspects of data analysis, helping to uncover patterns and drive decision-making.
 
 ## Dashboards
 
