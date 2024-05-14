@@ -47,14 +47,13 @@ Welcome to my Power BI Dashboard Portfolio! This repository demonstrates my expe
 ![Sales Performance Dashboard](https://github.com/vinayvaida27/PowerBI/blob/main/Sales%20Performance%20Dashboard/Sales%20Performance%20Dashboard.png)
 
 ## Installation
-1. Clone the repository using the command:  git clone https://github.com/vinayvaida27/PowerBI.git
+1. Clone the repository using the command: 
+```bash
+ git clone https://github.com/vinayvaida27/PowerBI.git
+```
 2. Open the `.pbix` files with Power BI to interact with the dashboards dynamically or view the static `.png` visualizations included in the repository.
 
-## Contributing
-Contributions are welcome! Please feel free to fork this repository, enhance the existing dashboards, or add new ones using the provided data sets.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
 
 ## Contact Information
 - **Name:** Vinay Vaida
